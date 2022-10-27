@@ -1,0 +1,11 @@
+Note: make sure you are connected to the internet before taking any of this steps....
+
+
+step 1: download the file from github to your local pc
+
+
+
+step 2: open the folder downloaded 
+
+step 3: then click on my.exe to run the application then the app start to work sucessfully
+
